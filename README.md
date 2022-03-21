@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brkyc
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning C#
